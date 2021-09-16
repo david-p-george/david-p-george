@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidgeorge-2
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for advices for creating a audio-to-text engine
+- 💞️ I’m looking for support in learning programming!
 - 📫 How to reach me - EMail - off.davidgeorge@gmail.com
 
 <!---
