@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidgeorge-2
+- 👋 Hi, I’m @david-p-george
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me - Email - off.davidgeorge@gmail.com
