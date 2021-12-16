@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @david-p-george
-- 👀 I’m interested in programming
+- 👀 I’m interested in website development and GUI (Graphical User Interface) Development
+- 🖊 My Tech Stack is MERN, but I also use PERN (Postgre SQL instead of MongoDB)
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me - Email - off.davidgeorge@gmail.com
 
