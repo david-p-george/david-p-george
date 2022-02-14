@@ -2,7 +2,7 @@
 <img src="https://github.com/david-p-george/david-p-george/blob/main/githubheader1.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">13 y/o Web Developer 🚀and Essayist ✒️</div>  
+### <div align="center">13 y/o 🚀 Web Developer 💻 and Essayist ✒️</div>  
   
 
 - ⚙️ I’m currently working on [React Bible App](https://github.com/david-p-george/React-Bible-App)  
