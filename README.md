@@ -2,7 +2,7 @@
 <img src="https://github.com/david-p-george/david-p-george/blob/main/githubheader1.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">14 y/o 🚀 Web Developer 💻 and Essayist ✒️</div>  
+### <div align="center">14 y/o 🚀 Web Developer 💻 and Litterateur ✒️</div>  
   
 
 - ⚙️ I’m currently working on [React Bible App](https://github.com/david-p-george/React-Bible-App)  
@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
