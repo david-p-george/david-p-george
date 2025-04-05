@@ -2,16 +2,16 @@
 <img src="https://github.com/david-p-george/david-p-george/blob/main/githubheader1.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">14 y/o 🚀 Web Developer 💻 and Litterateur ✒️</div>  
+### <div align="center">16 y/o 🚀 Web Developer 💻 and Litterateur ✒️</div>  
   
 
-- ⚙️ I’m currently working on [React Bible App](https://github.com/david-p-george/React-Bible-App)  
+- ⚙️ I’m currently working on a SaaS.
   
 
-- 🌱 I’m planning to learn Golang.  
+- 🌱 I’m planning to learn Rust.  
   
 
-- 💡 Fun Fact - I write articles and essays on Theology.  
+- 💡 Fun Fact - I write articles and essays on Christianity.  
   
 
 <br/>  
